@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PhotosWidget" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Add custom colors here if needed -->
+    </style>
+
+    <style name="Theme.PhotosWidget.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

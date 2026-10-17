@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photos Carousel</string>
+    <string name="widget_description">Displays a rotating carousel of your selected Google Photos albums.</string>
+</resources>
