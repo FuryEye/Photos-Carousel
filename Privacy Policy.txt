@@ -1,0 +1,44 @@
+  What the app does
+
+  The app shows photos in a widget on your home screen. You can supply them in two ways:
+  1. Pick photos: you sign in with Google and choose photos using Google's Photos Picker.
+  2. Album link: you paste a link to a shared Google Photos album.
+
+  Information the app accesses
+
+  - Photos you select. If you use the picker, the app requests the Google permission photospicker.mediaitems.readonly. This gives the app access only to the photos you choose in Google's
+    picker, and nothing else in your library. The app does not see your other photos or albums.
+  - Shared album link and album contents. If you use an album link, the app fetches that album's public page directly from your phone to find its photos.
+  - Your Google account. To sign in, the app receives a temporary access token from Google. It uses the token only during setup and does not store it. The app does not collect your name,
+    email address or any other account details.
+
+  How information is used and stored
+
+  - The photos you select, the album link, and your widget settings (such as the current photo) are stored only on your device.
+  - Selected photos are copied to the app's private storage on your phone so the widget can display them. Photos from an album link are loaded from Google as needed.
+  - The app has no server. No information is sent to, or stored by, the developer.
+  - The app contains no advertising, analytics or tracking.
+
+  Sharing
+
+  The app does not sell, share or transfer your information to anyone. The only network connections it makes are to Google, to sign in, to load your selected photos, and to read a shared
+  album you provided.
+
+  Google user data
+
+  The app's use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy
+  (https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+
+  Your choices and deleting your data
+
+  - Removing the widget from your home screen deletes the photos and settings stored for it.
+  - Uninstalling the app deletes everything it stored on your device.
+  - You can revoke the app's access to your Google account at any time at https://myaccount.google.com/permissions.
+
+  Children
+
+  The app is not directed at children under 13.
+
+  Changes
+
+  If this policy changes, the updated version will be posted at this address with a new "Last updated" date.
